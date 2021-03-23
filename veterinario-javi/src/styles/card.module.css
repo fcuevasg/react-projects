@@ -1,0 +1,45 @@
+
+  
+  .card {
+    -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+            order: 0;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 1 auto;
+            flex: 0 1 auto;
+    -ms-flex-item-align: auto;
+        -ms-grid-row-align: auto;
+        align-self: auto;
+  }
+  
+  .card img {
+    padding: 20px;
+    padding-right: 35px;
+    width: 300px;
+    height: 200px;
+  }
+  
+  .card p {
+    color: #FE8E7A !important;
+    background-color: #6D6875;
+    text-decoration: none;
+    border: none;
+  }
+  
+  h2 {
+    margin-top: 10vh;
+    text-align: center;
+  }
+
+  .w18{
+      width: 18rem;
+      
+      text-decoration: none;
+      border: none;
+      background-color: white;
+  }
+  .w18 span{
+    color: #FE8E7A !important;
+    background-color: #6D6875;
+    border:none;
+  }
